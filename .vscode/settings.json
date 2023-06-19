@@ -1,0 +1,26 @@
+{
+    "python.analysis.extraPaths": [
+        "/home/lmh/humble_ws/build/sm",
+        "/home/lmh/humble_ws/install/sm/lib/python3.10/site-packages",
+        "/home/lmh/external/build/smach_ros",
+        "/home/lmh/external/install/smach_ros/lib/python3.10/site-packages",
+        "/home/lmh/external/install/smach_msgs/local/lib/python3.10/dist-packages",
+        "/home/lmh/external/build/smach",
+        "/home/lmh/external/install/smach/lib/python3.10/site-packages",
+        "/home/lmh/external/install/behaviortree_ros2/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.autoComplete.extraPaths": [
+        "/home/lmh/humble_ws/build/sm",
+        "/home/lmh/humble_ws/install/sm/lib/python3.10/site-packages",
+        "/home/lmh/external/build/smach_ros",
+        "/home/lmh/external/install/smach_ros/lib/python3.10/site-packages",
+        "/home/lmh/external/install/smach_msgs/local/lib/python3.10/dist-packages",
+        "/home/lmh/external/build/smach",
+        "/home/lmh/external/install/smach/lib/python3.10/site-packages",
+        "/home/lmh/external/install/behaviortree_ros2/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
